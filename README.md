@@ -1,0 +1,2 @@
+# MybatisPlugin
+该项目是一个为mybatis提供的分页插件，通过实现Interceptor接口来进行sql语句的拦截，拼接limit语句修改原sql来达到分页的目的
